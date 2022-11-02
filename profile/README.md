@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello adventurers! 👋
+
+Our pristine world of Earth has been dying since ages. Come join and invite your friends into the land of codes.
 
 <!--
 
